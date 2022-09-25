@@ -116,7 +116,7 @@ nav li {
 
 .card-large {
     position: relative;
-    background-image: url("assets/images/under-construction-4.jpg");
+    background-image: url("./assets/images/under-construction-4.jpg");
     background-size: 100%;
     height: 500px;
     width: 100%;
@@ -158,7 +158,7 @@ nav li {
     position: relative;
     width: 50%;
     height: 250px;
-    background-image: url("assets/images/under-construction-4.jpg");
+    background-image: url("./assets/images/under-construction-4.jpg");
     background-size: 100%;
     margin: 10px;
     border: 10px solid gray;
